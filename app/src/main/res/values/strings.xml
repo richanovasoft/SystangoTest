@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SystangoTest</string>
+    <string name="InternetErrorMsg">Please check your Internet connection.</string>
+    <string name="facebook_app_id">894882580618030</string>
+    <string name="fb_login_protocol_scheme">fb204127990172423</string>
+
+
+    <string name="LoginFBCancelTitle">Canceled</string>
+    <string name="LoginFBCancelMsg">login canceled</string>
+    <string name="LoginFBErrorMsg">Unable to Login. Please try again</string>
+    <string name="LoginFailedTitle">Failed</string>
+    <string name="FailedTitle">Failed</string>
+    <string name="LoginFailedMsg">Unable to Login. Please try again</string>
+    <string name="backCountMsg">Press Back again to exit.</string>
+
+</resources>
